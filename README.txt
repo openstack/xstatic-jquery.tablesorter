@@ -1,5 +1,5 @@
 XStatic-JQuery.TableSorter
---------------
+--------------------------
 
 JQuery.TableSorter JavaScript library packaged for setuptools (easy_install) / pip.
 
